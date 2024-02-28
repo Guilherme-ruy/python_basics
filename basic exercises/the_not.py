@@ -26,3 +26,11 @@ print(true_or_false)
 true_or_false = not 1600 < 1500
 print(true_or_false)
 
+#7
+true_or_false = not "text"
+print(true_or_false)
+
+#8
+true_or_false = not ""
+print(true_or_false)
+
