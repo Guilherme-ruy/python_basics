@@ -12,7 +12,7 @@ if lang == 'PT':
   if imc < 18.5:
     print('abaixo do peso')
   elif imc <= 24.9:
-    print('normal :D')
+    print('ok')
   elif imc <= 29.9:
     print('sobrepeso!')
   elif imc <= 34.9:
@@ -34,7 +34,7 @@ elif lang == 'EN':
   if imc < 18.5:
     print('underweight')
   elif imc <= 24.9:
-    print('normal :D')
+    print('ok')
   elif imc <= 29.9:
     print('overweight!')
   elif imc <= 34.9:
